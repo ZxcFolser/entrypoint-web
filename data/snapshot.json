@@ -1,8 +1,8 @@
 {
   "public_schema_version": 1,
   "demo": false,
-  "updated_at": "2026-11-06T06:37:44+00:00",
-  "succeeded_at": "2026-11-06T06:37:44+00:00",
+  "updated_at": "2026-11-06T19:25:43+00:00",
+  "succeeded_at": "2026-11-06T19:25:43+00:00",
   "collection_interval_hours": 6,
   "records": [
     {
@@ -47,7 +47,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T20:50:40+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -126,7 +126,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T20:50:40+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -195,7 +195,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -266,7 +266,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -346,7 +346,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -437,7 +437,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -529,7 +529,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -680,7 +680,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -753,7 +753,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -826,7 +826,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -899,7 +899,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -972,7 +972,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1045,7 +1045,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1118,7 +1118,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1191,7 +1191,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1264,7 +1264,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1337,7 +1337,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1410,7 +1410,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1483,7 +1483,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1556,7 +1556,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1629,7 +1629,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1702,7 +1702,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1775,7 +1775,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1848,7 +1848,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1921,7 +1921,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1994,7 +1994,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -2093,7 +2093,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:10:18+00:00",
-      "verified_at": "2026-11-06T06:37:44+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -2276,6 +2276,673 @@
           "Местоположение не указано"
         ]
       }
+    },
+    {
+      "id": "c0f53835ab82cc0ceebd2e0d",
+      "record_type": "PROGRAM",
+      "company": "VK",
+      "title": "Инженер по информационной безопасности",
+      "program": null,
+      "directions": [
+        "AppSec"
+      ],
+      "status": "OPEN",
+      "summary": null,
+      "responsibilities": [
+        "Триаж находок сканеров по контейнерным образам и дистрибутивам.",
+        "Проведение white-box анализа исходного кода on-prem продуктов.",
+        "Воспроизведение уязвимостей на стенде, подготовка PoC.",
+        "Проверка безопасности релиза перед публикацией: тестирование безопасности новых фич.",
+        "Ведение уязвимости до закрытия: фиксация в Jira, проверка фикса.",
+        "Участие в улучшении качества анализа и развития используемых AppSec-инструментов."
+      ],
+      "requirements": [
+        "Навыки поиска уязвимостей в веб-приложениях.",
+        "Понимание OWASP Top 10 и CWE на практике: как уязвимость эксплуатируется и как устраняется.",
+        "Умение читать исходный код и выявлять недостатки ИБ (уязвимости).",
+        "Понимание Linux и контейнеров: устройство образа, пакетные менеджеры."
+      ],
+      "study_year": null,
+      "experience": "Понимание OWASP Top 10 и CWE на практике: как уязвимость эксплуатируется и как устраняется.",
+      "experience_level": "UNKNOWN",
+      "work_format": "Гибрид",
+      "locations": [
+        "Москва",
+        "Санкт-Петербург"
+      ],
+      "employment": "Полная занятость",
+      "schedule": null,
+      "minimum_hours_per_week": null,
+      "hours_per_week": 40,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://internship.vk.company/vacancy/1472",
+        "apply": null,
+        "status": "https://internship.vk.company/vacancy/1472",
+        "deadline": null
+      },
+      "source_ids": [
+        "1a591f26d705ec84d571a873"
+      ],
+      "related_ids": [],
+      "timeline": [
+        {
+          "kind": "NEW",
+          "at": "2026-11-06T19:25:43+00:00",
+          "confirmed": true,
+          "fields": []
+        }
+      ],
+      "cycles": [
+        {
+          "status": "OPEN",
+          "discovered_at": "2026-11-06T19:25:43+00:00",
+          "opened_at": "2026-11-06T19:25:43+00:00",
+          "closed_at": null,
+          "official_opening_date": null,
+          "official_closed_at": null,
+          "deadline": null
+        }
+      ],
+      "fit": {
+        "label": "NO_MATCH",
+        "score": 0,
+        "reasons": [
+          "Местоположение: Москва",
+          "Полная занятость или нагрузка выше 30 ч/нед: совмещение затруднено",
+          "Требование к опыту не указано"
+        ]
+      }
+    },
+    {
+      "id": "3b72a3b4d56ebb630da77df8",
+      "record_type": "PROGRAM",
+      "company": "UserGate",
+      "title": "Офлайн-стажировка UserGate",
+      "program": "Офлайн-стажировка UserGate",
+      "directions": [
+        "Other"
+      ],
+      "status": "OPEN",
+      "summary": "3 месяца в офисах Москвы, Санкт-Петербурга или Новосибирска Что мы ждем от тебя: Хорошую теоретическую базу (пригодится всё, что ты изучал в вузе) Возможность уделять стажировке от 20 часов в неделю в течение 3 месяцев Что мы предлагаем: Прикладные технические задачи и командные проекты Оплату стажировки Возможность получить оффер Направления стажировки: Разработка Тестирование Информационная безопасность Техническая поддержка Зарегистрироваться",
+      "responsibilities": [],
+      "requirements": [
+        "3 месяца в офисах Москвы, Санкт-Петербурга или Новосибирска Что мы ждем от тебя: Хорошую теоретическую базу (пригодится всё, что ты изучал в вузе) Возможность уделять стажировке от 20 часов в неделю в течение 3 месяцев Что мы предлагаем: Прикладные технические задачи и командные проекты Оплату стажировки Возможность получить оффер Направления стажировки: Разработка Тестирование Информационная безопасность Техническая поддержка Зарегистрироваться"
+      ],
+      "study_year": null,
+      "experience": null,
+      "experience_level": "UNKNOWN",
+      "work_format": "Офис",
+      "locations": [
+        "Москва",
+        "Санкт-Петербург",
+        "Новосибирск"
+      ],
+      "employment": null,
+      "schedule": null,
+      "minimum_hours_per_week": 20,
+      "hours_per_week": null,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://students.usergate.com/",
+        "apply": "https://students.usergate.com/",
+        "status": "https://students.usergate.com/",
+        "deadline": null
+      },
+      "source_ids": [
+        "35123c44654c8d2568dba277"
+      ],
+      "related_ids": [],
+      "timeline": [
+        {
+          "kind": "NEW",
+          "at": "2026-11-06T19:25:43+00:00",
+          "confirmed": true,
+          "fields": []
+        }
+      ],
+      "cycles": [
+        {
+          "status": "OPEN",
+          "discovered_at": "2026-11-06T19:25:43+00:00",
+          "opened_at": "2026-11-06T19:25:43+00:00",
+          "closed_at": null,
+          "official_opening_date": null,
+          "official_closed_at": null,
+          "deadline": null
+        }
+      ],
+      "fit": {
+        "label": "PARTIAL",
+        "score": 50,
+        "reasons": [
+          "Местоположение: Москва",
+          "Минимальная занятость 20 ч/нед; верхняя граница не указана",
+          "Направление требует уточнения",
+          "Требование к опыту не указано"
+        ]
+      }
+    },
+    {
+      "id": "53bc73b79366591e1afd99ed",
+      "record_type": "PROGRAM",
+      "company": "UserGate",
+      "title": "Онлайн-практика UserGate",
+      "program": "Онлайн-практика UserGate",
+      "directions": [
+        "Other"
+      ],
+      "status": "OPEN",
+      "summary": "Удаленный формат из любого города РФ Что мы ждем от тебя: Программа разработана совместно с вузами и рассчитана на студентов 3–4 курсов. Доступна только для студентов вузов-партнеров UserGate. Хорошую теоретическую базу (пригодится всё, что ты изучал в вузе) Возможность уделять стажировке от 20 часов в неделю в течение 3 месяцев Что мы предлагаем: Доступ к реальным кейсам ИБ Навыки работы с ПО и оборудованием UserGate Возможность участвовать в стипендиальной программе Шанс стать амбассадором компании и получить крутой мерч Сертификат о прохождении практики Направления стажировки: Системное администрирование продуктов UserGate Настройка систем безопасности на базе продуктов UserGate Сопровождение систем безопасности на основе продуктов UserGate Зарегистрироваться",
+      "responsibilities": [],
+      "requirements": [
+        "Удаленный формат из любого города РФ Что мы ждем от тебя: Программа разработана совместно с вузами и рассчитана на студентов 3–4 курсов. Доступна только для студентов вузов-партнеров UserGate. Хорошую теоретическую базу (пригодится всё, что ты изучал в вузе) Возможность уделять стажировке от 20 часов в неделю в течение 3 месяцев Что мы предлагаем: Доступ к реальным кейсам ИБ Навыки работы с ПО и оборудованием UserGate Возможность участвовать в стипендиальной программе Шанс стать амбассадором компании и получить крутой мерч Сертификат о прохождении практики Направления стажировки: Системное администрирование продуктов UserGate Настройка систем безопасности на базе продуктов UserGate Сопровождение систем безопасности на основе продуктов UserGate Зарегистрироваться"
+      ],
+      "study_year": "3–4 курс; только вузы-партнёры",
+      "experience": "Удаленный формат из любого города РФ Что мы ждем от тебя: Программа разработана совместно с вузами и рассчитана на студентов 3–4 курсов. Доступна только для студентов вузов-партнеров UserGate. Хорошую теоретическую базу (пригодится всё, что ты изучал в вузе) Возможность уделять стажировке от 20 часов в неделю в течение 3 месяцев Что мы предлагаем: Доступ к реальным кейсам ИБ Навыки работы с ПО и оборудованием UserGate Возможность участвовать в стипендиальной программе Шанс стать амбассадором компании и получить крутой мерч Сертификат о прохождении практики Направления стажировки: Системное администрирование продуктов UserGate Настройка систем безопасности на базе продуктов UserGate Сопровождение систем безопасности на основе продуктов UserGate Зарегистрироваться",
+      "experience_level": "UNKNOWN",
+      "work_format": "Удалённо",
+      "locations": [],
+      "employment": null,
+      "schedule": null,
+      "minimum_hours_per_week": 20,
+      "hours_per_week": null,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://students.usergate.com/",
+        "apply": "https://students.usergate.com/",
+        "status": "https://students.usergate.com/",
+        "deadline": null
+      },
+      "source_ids": [
+        "35123c44654c8d2568dba277"
+      ],
+      "related_ids": [],
+      "timeline": [
+        {
+          "kind": "NEW",
+          "at": "2026-11-06T19:25:43+00:00",
+          "confirmed": true,
+          "fields": []
+        }
+      ],
+      "cycles": [
+        {
+          "status": "OPEN",
+          "discovered_at": "2026-11-06T19:25:43+00:00",
+          "opened_at": "2026-11-06T19:25:43+00:00",
+          "closed_at": null,
+          "official_opening_date": null,
+          "official_closed_at": null,
+          "deadline": null
+        }
+      ],
+      "fit": {
+        "label": "PARTIAL",
+        "score": 50,
+        "reasons": [
+          "Доступна удалённая работа",
+          "Минимальная занятость 20 ч/нед; верхняя граница не указана",
+          "Направление требует уточнения",
+          "Требование к опыту не указано"
+        ]
+      }
+    },
+    {
+      "id": "93b6dfc144c8560c824c26f0",
+      "record_type": "PROGRAM",
+      "company": "R-Vision",
+      "title": "Стажировка R-Vision",
+      "program": "Стажировка R-Vision",
+      "directions": [],
+      "status": "UNKNOWN",
+      "summary": null,
+      "responsibilities": [],
+      "requirements": [],
+      "study_year": null,
+      "experience": null,
+      "experience_level": "UNKNOWN",
+      "work_format": null,
+      "locations": [],
+      "employment": null,
+      "schedule": null,
+      "minimum_hours_per_week": null,
+      "hours_per_week": null,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "verified_at": null,
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://career.rvision.ru/",
+        "apply": null,
+        "status": "https://career.rvision.ru/",
+        "deadline": null
+      },
+      "source_ids": [
+        "ae614722dcbafcc6ae7ffc96"
+      ],
+      "related_ids": [],
+      "timeline": [],
+      "cycles": [
+        {
+          "status": "UNKNOWN",
+          "discovered_at": "2026-11-06T19:25:43+00:00",
+          "opened_at": null,
+          "closed_at": null,
+          "official_opening_date": null,
+          "official_closed_at": null,
+          "deadline": null
+        }
+      ],
+      "fit": {
+        "label": "INSUFFICIENT",
+        "score": 0,
+        "reasons": [
+          "Требование к опыту не указано",
+          "Местоположение не указано",
+          "Нагрузка 20–30 часов и совмещение не подтверждены"
+        ]
+      }
+    },
+    {
+      "id": "1762474cfffc6f47736255d5",
+      "record_type": "PROGRAM",
+      "company": "Информзащита",
+      "title": "Стажировка в Информзащите",
+      "program": "Стажировка в Информзащите",
+      "directions": [
+        "SOC",
+        "Pentest"
+      ],
+      "status": "UNKNOWN",
+      "summary": null,
+      "responsibilities": [],
+      "requirements": [],
+      "study_year": "Старшие курсы профильного вуза",
+      "experience": null,
+      "experience_level": "UNKNOWN",
+      "work_format": null,
+      "locations": [
+        "Москва"
+      ],
+      "employment": null,
+      "schedule": null,
+      "minimum_hours_per_week": null,
+      "hours_per_week": null,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "verified_at": null,
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://edu.infosec.ru/",
+        "apply": null,
+        "status": "https://edu.infosec.ru/",
+        "deadline": null
+      },
+      "source_ids": [
+        "d029446025bf72eb4685e962"
+      ],
+      "related_ids": [],
+      "timeline": [],
+      "cycles": [
+        {
+          "status": "UNKNOWN",
+          "discovered_at": "2026-11-06T19:25:43+00:00",
+          "opened_at": null,
+          "closed_at": null,
+          "official_opening_date": null,
+          "official_closed_at": null,
+          "deadline": null
+        }
+      ],
+      "fit": {
+        "label": "PARTIAL",
+        "score": 50,
+        "reasons": [
+          "Направление соответствует интересам SOC / пентест",
+          "Местоположение: Москва",
+          "Требование к опыту не указано",
+          "Нагрузка 20–30 часов и совмещение не подтверждены"
+        ]
+      }
+    },
+    {
+      "id": "d68aebbd34cbb4615fbe8d4c",
+      "record_type": "VACANCY",
+      "company": "Security Vision",
+      "title": "Младший инженер информационной безопасности (отдел внедрения)",
+      "program": null,
+      "directions": [
+        "Other"
+      ],
+      "status": "UNKNOWN",
+      "summary": null,
+      "responsibilities": [],
+      "requirements": [],
+      "study_year": null,
+      "experience": null,
+      "experience_level": "UNKNOWN",
+      "work_format": null,
+      "locations": [],
+      "employment": null,
+      "schedule": null,
+      "minimum_hours_per_week": null,
+      "hours_per_week": null,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "verified_at": null,
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://www.securityvision.ru/about/career/",
+        "apply": null,
+        "status": "https://www.securityvision.ru/about/career/",
+        "deadline": null
+      },
+      "source_ids": [
+        "ce1d1a0f4c2b492ac1ee9c28"
+      ],
+      "related_ids": [],
+      "timeline": [],
+      "cycles": [],
+      "fit": {
+        "label": "INSUFFICIENT",
+        "score": 0,
+        "reasons": [
+          "Направление требует уточнения",
+          "Требование к опыту не указано",
+          "Местоположение не указано",
+          "Нагрузка 20–30 часов и совмещение не подтверждены"
+        ]
+      }
+    },
+    {
+      "id": "ef2db329e31a555728416e27",
+      "record_type": "VACANCY",
+      "company": "УЦСБ",
+      "title": "Младший аналитик",
+      "program": null,
+      "directions": [
+        "SOC"
+      ],
+      "status": "UNKNOWN",
+      "summary": "Уральский центр систем безопасности (УЦСБ) – аккредитованная IT-компания – системный интегратор, реализующий масштабные проекты в сфере информационных технологий и информационной безопасности. Входим в ТОП-15 крупнейших компаний России в сфере защиты информации и более 19 лет оказываем бизнесу услуги в области проектирования, разработки и внедрения комплексных проектов в сфере IT и инженерных систем. У нас работают более 1000 талантливых сотрудников. Нашим новым коллегой можешь стать и ты! Обязанности: Мониторинг событий информационной безопасности, поступающих с различных источников. Анализ и обработка выявленных инцидентов. Эскалация сложных инцидентов на 2-ю линию для проведения дальнейшей аналитики. Информирование заказчиков об инцидентах и возможных действиях. Требования: Базовые знания OC Windows, Unix, основ сетевых технологий (сети Ethernet), Базовые знания по информационной безопасности: логи и события безопасности, антивирусы, межсетевые экраны, политики безопасности (дополнительные знания можно получить в ходе работы). Аналитическое мышление, умение систематизировать информацию, выстраивать причинно-следственные связи, Самостоятельность, проактивность, Внимательность. Условия работы: Официальное трудоустройство и полностью белая зарплата – всегда вовремя . Удаленная работа в сменном графике 2/2 с ночными сменами. Работа в аккредитованной IT-компании. Уровень заработной платы обсуждается индивидуально с каждым кандидатом и зависит от уровня твоих знаний и компетенций. Качественная адаптация : кураторство, поддержка опытных и вовлеченных коллег. Комфортные условия : современный офис рядом с парком, уютная кухня с чаем и кофе, вкусняшки каждую пятницу. Обучение и развитие : курсы, тренинги и сертификации, компенсируемые на 100% за счет компании. Крутые корпоративные мероприятия . Поддержка спорта : фитнес, бассейн, йога, компенсация личных затрат на занятия спортом. Забота о здоровье: предоставляем ДМС для сотрудников и их детей по завершению адаптационного периода, возможность подключать к программам ДМС родственников по корпоративному тарифу.",
+      "responsibilities": [],
+      "requirements": [],
+      "study_year": null,
+      "experience": "Качественная адаптация : кураторство, поддержка опытных и вовлеченных коллег.",
+      "experience_level": "UNKNOWN",
+      "work_format": "Удалённо",
+      "locations": [],
+      "employment": null,
+      "schedule": "Сменный 2/2 с ночными сменами",
+      "minimum_hours_per_week": null,
+      "hours_per_week": null,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "verified_at": null,
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://career.ussc.ru/vacancy/mladshiy-analitik_12813/",
+        "apply": null,
+        "status": "https://career.ussc.ru/vacancy/mladshiy-analitik_12813/",
+        "deadline": null
+      },
+      "source_ids": [
+        "ed473d08429a78a85782711e"
+      ],
+      "related_ids": [],
+      "timeline": [],
+      "cycles": [],
+      "fit": {
+        "label": "PARTIAL",
+        "score": 50,
+        "reasons": [
+          "Направление соответствует интересам SOC / пентест",
+          "Доступна удалённая работа",
+          "Требование к опыту не указано",
+          "Нагрузка 20–30 часов и совмещение не подтверждены"
+        ]
+      }
+    },
+    {
+      "id": "a6f195069e90f4d36fff7ca6",
+      "record_type": "PROGRAM",
+      "company": "С-Терра",
+      "title": "Стажировки в отделе тестирования и качества",
+      "program": "Стажировки в отделе тестирования и качества",
+      "directions": [],
+      "status": "OPEN",
+      "summary": null,
+      "responsibilities": [],
+      "requirements": [],
+      "study_year": null,
+      "experience": "Что мы предлагаем оформление на практику, с возможностью написать дипломную работу;; получение опыта работы в построении виртуальных приватных сетей VPN;",
+      "experience_level": "UNKNOWN",
+      "work_format": null,
+      "locations": [
+        "Зеленоград"
+      ],
+      "employment": null,
+      "schedule": null,
+      "minimum_hours_per_week": null,
+      "hours_per_week": null,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://www.s-terra.ru/company/rabota-u-nas/Stazhirovkivotdeletestirovaniyaikachestva/",
+        "apply": "https://www.s-terra.ru/company/rabota-u-nas/Stazhirovkivotdeletestirovaniyaikachestva/",
+        "status": "https://www.s-terra.ru/company/rabota-u-nas/Stazhirovkivotdeletestirovaniyaikachestva/",
+        "deadline": null
+      },
+      "source_ids": [
+        "2ad643aee5bcc49d8999ec62"
+      ],
+      "related_ids": [],
+      "timeline": [
+        {
+          "kind": "NEW",
+          "at": "2026-11-06T19:25:43+00:00",
+          "confirmed": true,
+          "fields": []
+        }
+      ],
+      "cycles": [
+        {
+          "status": "OPEN",
+          "discovered_at": "2026-11-06T19:25:43+00:00",
+          "opened_at": "2026-11-06T19:25:43+00:00",
+          "closed_at": null,
+          "official_opening_date": null,
+          "official_closed_at": null,
+          "deadline": null
+        }
+      ],
+      "fit": {
+        "label": "NO_MATCH",
+        "score": 0,
+        "reasons": [
+          "Регион вне Москвы; удалённая работа не подтверждена",
+          "Требование к опыту не указано",
+          "Нагрузка 20–30 часов и совмещение не подтверждены"
+        ]
+      }
+    },
+    {
+      "id": "488bd4900b322ab8bd96f5ee",
+      "record_type": "VACANCY",
+      "company": "Innostage",
+      "title": "Инженер сопровождения продуктов Касперского (Kaspersky, KSC)",
+      "program": null,
+      "directions": [
+        "SOC"
+      ],
+      "status": "OPEN",
+      "summary": "Помощь в адаптации для быстрого погружения в работу; ДМС (включая ежегодный Check UP, стоматологию, телемедицину, психологическую поддержку в онлайн-формате); Страхование от несчастного случая и страхование при выезде за рубеж; Постоянное развитие - доступ к онлайн библиотеке, курсы, тренинги Частичную компенсацию затрат на занятия спортом ; Комьюнити единомышленников по увлечениям и интересам – книги, спорт, фильмы и различные хобби; Имеем аккредитацию в Минцифры; Социальная поддержка в ключевые моменты жизни сотрудников; Комфортабельный офис; Официальное трудоустройство; 1. Администрирование серверов KSC (пользователи + серверы): Контроль параметров работы системы: состояние вирусной активности, сетевых атак, агентов администрирования и обновлений. Мониторинг использования лицензий. Контроль статусов регулярно выполняемых задач: загрузка обновлений в хранилище, обновление баз на устройствах, проверка на вирусы, поиск уязвимостей, резервное копирование. 2. Администрирование KWTS: Контроль и фильтрация входящего и исходящего трафика. Настройка правил доступа. 3. Администрирование KSMG: Настройка фильтрации нежелательной почты и фишинговых сообщений. Настройка интеграции с КАТА. Настройка правил доступа и фильтрации сообщений по содержимому. 4. Администрирование СКДПУ: Настройка правил доступа для пользователей. Мониторинг и отслеживание действий привилегированных пользователей. Обязательные: Опыт работы с KSC, KWTS, KSMG, КАТА (администрирование, настройка правил доступа, обновление ПО и тд); Развитые коммуникативные навыки и опыт ведения деловой переписки; Понимание принципов обеспечения безопасности. Не обязательно, но будет плюсом: Опыт работы с SIEM-системами (MP SIEM); Наличие специализированных сертификатов, курсов повышения квалификации в рассматриваемой области.",
+      "responsibilities": [
+        "Контроль параметров работы системы: состояние вирусной активности, сетевых атак, агентов администрирования и обновлений.",
+        "Мониторинг использования лицензий.",
+        "Контроль статусов регулярно выполняемых задач: загрузка обновлений в хранилище, обновление баз на устройствах, проверка на вирусы, поиск уязвимостей, резервное копирование.",
+        "Контроль и фильтрация входящего и исходящего трафика.",
+        "Настройка правил доступа.",
+        "Настройка фильтрации нежелательной почты и фишинговых сообщений.",
+        "Настройка интеграции с КАТА.",
+        "Настройка правил доступа и фильтрации сообщений по содержимому.",
+        "Настройка правил доступа для пользователей.",
+        "Мониторинг и отслеживание действий привилегированных пользователей."
+      ],
+      "requirements": [
+        "Опыт работы с KSC, KWTS, KSMG, КАТА (администрирование, настройка правил доступа, обновление ПО и тд);",
+        "Развитые коммуникативные навыки и опыт ведения деловой переписки;",
+        "Понимание принципов обеспечения безопасности.",
+        "Опыт работы с SIEM-системами (MP SIEM);",
+        "Наличие специализированных сертификатов, курсов повышения квалификации в рассматриваемой области."
+      ],
+      "study_year": null,
+      "experience": "1–3 года",
+      "experience_level": "REQUIRED",
+      "work_format": null,
+      "locations": [
+        "Москва"
+      ],
+      "employment": "Полная занятость",
+      "schedule": "5/2",
+      "minimum_hours_per_week": null,
+      "hours_per_week": null,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "verified_at": "2026-11-06T19:25:43+00:00",
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://innostage-group.ru/career/vakancy/139117666/",
+        "apply": "https://innostage-group.ru/career/vakancy/139117666/",
+        "status": "https://innostage-group.ru/career/vakancy/139117666/",
+        "deadline": null
+      },
+      "source_ids": [
+        "778051ce9fb7a2ffc11778f8"
+      ],
+      "related_ids": [],
+      "timeline": [
+        {
+          "kind": "NEW",
+          "at": "2026-11-06T19:25:43+00:00",
+          "confirmed": true,
+          "fields": []
+        }
+      ],
+      "cycles": [],
+      "fit": {
+        "label": "NO_MATCH",
+        "score": 0,
+        "reasons": [
+          "Направление соответствует интересам SOC / пентест",
+          "Местоположение: Москва",
+          "Источник требует опыт; см. исходные требования",
+          "Полная занятость или нагрузка выше 30 ч/нед: совмещение затруднено"
+        ]
+      }
+    },
+    {
+      "id": "d7cafa36615739b6720154f4",
+      "record_type": "PROGRAM",
+      "company": "TS Solution",
+      "title": "TS Start — информационная безопасность и техническая поддержка",
+      "program": "TS Start",
+      "directions": [
+        "Other"
+      ],
+      "status": "UNKNOWN",
+      "summary": "г. Санкт-Петербург Город: Сфера информационной безопасности сейчас актуальна как никогда. Обучись работе с лидирующими решениями на российском рынке и получи ценный опыт, решая практические задачи реальных компаний Информационная безопасность и техническая поддержка подробнее",
+      "responsibilities": [],
+      "requirements": [],
+      "study_year": null,
+      "experience": "Обучись работе с лидирующими решениями на российском рынке и получи ценный опыт, решая практические задачи реальных компаний Информационная безопасность и техническая поддержка подробнее",
+      "experience_level": "UNKNOWN",
+      "work_format": null,
+      "locations": [
+        "Санкт-Петербург"
+      ],
+      "employment": null,
+      "schedule": null,
+      "minimum_hours_per_week": null,
+      "hours_per_week": null,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "verified_at": null,
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://tssolution.ru/stazhirovka/informacionnaya-bezopasnost",
+        "apply": null,
+        "status": "https://tssolution.ru/stazhirovka/informacionnaya-bezopasnost",
+        "deadline": null
+      },
+      "source_ids": [
+        "8435f9144c7a75d8a4060c02"
+      ],
+      "related_ids": [],
+      "timeline": [],
+      "cycles": [
+        {
+          "status": "UNKNOWN",
+          "discovered_at": "2026-11-06T19:25:43+00:00",
+          "opened_at": null,
+          "closed_at": null,
+          "official_opening_date": null,
+          "official_closed_at": null,
+          "deadline": null
+        }
+      ],
+      "fit": {
+        "label": "NO_MATCH",
+        "score": 0,
+        "reasons": [
+          "Регион вне Москвы; удалённая работа не подтверждена",
+          "Направление требует уточнения",
+          "Требование к опыту не указано",
+          "Нагрузка 20–30 часов и совмещение не подтверждены"
+        ]
+      }
     }
   ],
   "publications": [
@@ -2286,7 +2953,7 @@
       "url": "https://team.rt-solar.ru/internships/solar-lab/solar-cyber-dive/",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "ANNOUNCEMENT",
       "registration_url": null,
@@ -2340,7 +3007,7 @@
       "url": "https://team.rt-solar.ru/internships/solar-start/inzhener-ib-na-proekty-integracii/",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "ANNOUNCEMENT",
       "registration_url": null,
@@ -2358,7 +3025,7 @@
       "url": "https://team.rt-solar.ru/internships/solar-start/",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "ANNOUNCEMENT",
       "registration_url": null,
@@ -2376,7 +3043,7 @@
       "url": "https://team.rt-solar.ru/internships/solar-lab/summ3r-0f-h4ck/",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "ANNOUNCEMENT",
       "registration_url": null,
@@ -2394,7 +3061,7 @@
       "url": "https://careers.kaspersky.ru/vacancy/25833",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "OPEN_CONFIRMED",
       "registration_url": null,
@@ -2412,7 +3079,7 @@
       "url": "https://yandex.ru/yaintern/security",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "CLOSED_CONFIRMED",
       "registration_url": null,
@@ -2430,7 +3097,7 @@
       "url": "https://yandex.ru/yaintern/soc-2024-2",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "CLOSED_CONFIRMED",
       "registration_url": null,
@@ -2448,7 +3115,7 @@
       "url": "https://yandex.ru/yaintern/cloud_security",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "CLOSED_CONFIRMED",
       "registration_url": null,
@@ -2466,7 +3133,7 @@
       "url": "https://edu-pt.ru/for_students",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "UNVERIFIED",
       "registration_url": null,
@@ -2484,7 +3151,7 @@
       "url": "https://safeboard.kaspersky.ru/",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "CLOSED_CONFIRMED",
       "registration_url": null,
@@ -2520,7 +3187,7 @@
       "url": "https://rt-solar.ru/events/news/2738/",
       "published_at": "2022-05-13",
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "NEWS",
       "category": "ANNOUNCEMENT",
       "registration_url": null,
@@ -2554,7 +3221,7 @@
       "url": "https://habr.com/ru/companies/solarsecurity/articles/1030180/",
       "published_at": "2026-04-30T14:01:58+00:00",
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "RSS",
       "category": "GENERAL_NEWS",
       "registration_url": null,
@@ -2572,7 +3239,7 @@
       "url": "https://habr.com/ru/companies/solarsecurity/articles/1007446/",
       "published_at": "2026-03-06T14:04:26+00:00",
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "RSS",
       "category": "GENERAL_NEWS",
       "registration_url": null,
@@ -2588,13 +3255,208 @@
       "url": "https://pt-start.ru/internships",
       "published_at": null,
       "discovered_at": "2026-11-03T10:41:24+00:00",
-      "checked_at": "2026-11-06T06:37:44+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "UNVERIFIED",
       "registration_url": null,
       "record_ids": [],
       "source_ids": [
         "f44484e3f9e57adb144e08dc"
+      ]
+    },
+    {
+      "id": "8c4b27beca78b2017dbb6d80",
+      "company": "VK",
+      "title": "VK · Приём подтверждён · Инженер по информационной безопасности",
+      "url": "https://internship.vk.company/vacancy/1472",
+      "published_at": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
+      "content_type": "PROGRAM_PAGE",
+      "category": "OPEN_CONFIRMED",
+      "registration_url": null,
+      "record_ids": [
+        "c0f53835ab82cc0ceebd2e0d"
+      ],
+      "source_ids": [
+        "1a591f26d705ec84d571a873"
+      ]
+    },
+    {
+      "id": "ac59bf84c972056df2012f77",
+      "company": "BI.ZONE",
+      "title": "BI.ZONE · Карьерная публикация",
+      "url": "https://bi.zone/news/zapustili-platformu-s-prakticheskim-obucheniem-na-realnykh-produktakh/",
+      "published_at": "2026-10-30T00:00:00+03:00",
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
+      "content_type": "NEWS",
+      "category": "GENERAL_NEWS",
+      "registration_url": null,
+      "record_ids": [],
+      "source_ids": [
+        "6e3c0358ac787f27eec0a6f9"
+      ]
+    },
+    {
+      "id": "7923755f8572d41fc473ebc6",
+      "company": "F6",
+      "title": "F6 · Карьерная публикация",
+      "url": "https://www.f6.ru/blog/soc-analyst-training/",
+      "published_at": "2026-10-19",
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
+      "content_type": "NEWS",
+      "category": "GENERAL_NEWS",
+      "registration_url": null,
+      "record_ids": [],
+      "source_ids": [
+        "e0444e795171acd51645caa6"
+      ]
+    },
+    {
+      "id": "4aa69657d7bbafffa08afea5",
+      "company": "UserGate",
+      "title": "UserGate · Приём подтверждён · Офлайн-стажировка UserGate · Онлайн-практика UserGate",
+      "url": "https://students.usergate.com/",
+      "published_at": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
+      "content_type": "PROGRAM_PAGE",
+      "category": "OPEN_CONFIRMED",
+      "registration_url": null,
+      "record_ids": [
+        "3b72a3b4d56ebb630da77df8",
+        "53bc73b79366591e1afd99ed"
+      ],
+      "source_ids": [
+        "35123c44654c8d2568dba277"
+      ]
+    },
+    {
+      "id": "5972d1df989459625a59ab54",
+      "company": "R-Vision",
+      "title": "R-Vision · Требует проверки · Стажировка R-Vision",
+      "url": "https://career.rvision.ru/",
+      "published_at": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
+      "content_type": "PROGRAM_PAGE",
+      "category": "UNVERIFIED",
+      "registration_url": null,
+      "record_ids": [
+        "93b6dfc144c8560c824c26f0"
+      ],
+      "source_ids": [
+        "ae614722dcbafcc6ae7ffc96"
+      ]
+    },
+    {
+      "id": "a9cb37723da0bdebf62303dd",
+      "company": "Информзащита",
+      "title": "Информзащита · Требует проверки · Стажировка в Информзащите",
+      "url": "https://edu.infosec.ru/",
+      "published_at": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
+      "content_type": "PROGRAM_PAGE",
+      "category": "UNVERIFIED",
+      "registration_url": null,
+      "record_ids": [
+        "1762474cfffc6f47736255d5"
+      ],
+      "source_ids": [
+        "d029446025bf72eb4685e962"
+      ]
+    },
+    {
+      "id": "6f19ff44c0f43e16dbedd536",
+      "company": "Security Vision",
+      "title": "Security Vision · Требует проверки · Младший инженер информационной безопасности (отдел внедрения)",
+      "url": "https://www.securityvision.ru/about/career/",
+      "published_at": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
+      "content_type": "PROGRAM_PAGE",
+      "category": "UNVERIFIED",
+      "registration_url": null,
+      "record_ids": [
+        "d68aebbd34cbb4615fbe8d4c"
+      ],
+      "source_ids": [
+        "ce1d1a0f4c2b492ac1ee9c28"
+      ]
+    },
+    {
+      "id": "d0f92f5c00281cca6acf8e1f",
+      "company": "УЦСБ",
+      "title": "УЦСБ · Требует проверки · Младший аналитик",
+      "url": "https://career.ussc.ru/vacancy/mladshiy-analitik_12813/",
+      "published_at": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
+      "content_type": "PROGRAM_PAGE",
+      "category": "UNVERIFIED",
+      "registration_url": null,
+      "record_ids": [
+        "ef2db329e31a555728416e27"
+      ],
+      "source_ids": [
+        "ed473d08429a78a85782711e"
+      ]
+    },
+    {
+      "id": "304cbce3e8e90ff8a3069c9b",
+      "company": "С-Терра",
+      "title": "С-Терра · Приём подтверждён · Стажировки в отделе тестирования и качества",
+      "url": "https://www.s-terra.ru/company/rabota-u-nas/Stazhirovkivotdeletestirovaniyaikachestva/",
+      "published_at": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
+      "content_type": "PROGRAM_PAGE",
+      "category": "OPEN_CONFIRMED",
+      "registration_url": "https://www.s-terra.ru/company/rabota-u-nas/Stazhirovkivotdeletestirovaniyaikachestva/",
+      "record_ids": [
+        "a6f195069e90f4d36fff7ca6"
+      ],
+      "source_ids": [
+        "2ad643aee5bcc49d8999ec62"
+      ]
+    },
+    {
+      "id": "6b3b43d956b492aac195ac45",
+      "company": "Innostage",
+      "title": "Innostage · Приём подтверждён · Инженер сопровождения продуктов Касперского (Kaspersky, KSC)",
+      "url": "https://innostage-group.ru/career/vakancy/139117666/",
+      "published_at": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
+      "content_type": "PROGRAM_PAGE",
+      "category": "OPEN_CONFIRMED",
+      "registration_url": "https://innostage-group.ru/career/vakancy/139117666/",
+      "record_ids": [
+        "488bd4900b322ab8bd96f5ee"
+      ],
+      "source_ids": [
+        "778051ce9fb7a2ffc11778f8"
+      ]
+    },
+    {
+      "id": "b1eae8e6661891a1c023fa4a",
+      "company": "TS Solution",
+      "title": "TS Solution · Требует проверки · TS Start — информационная безопасность и техническая поддержка",
+      "url": "https://tssolution.ru/stazhirovka/informacionnaya-bezopasnost",
+      "published_at": null,
+      "discovered_at": "2026-11-06T19:25:43+00:00",
+      "checked_at": "2026-11-06T19:25:43+00:00",
+      "content_type": "PROGRAM_PAGE",
+      "category": "UNVERIFIED",
+      "registration_url": null,
+      "record_ids": [
+        "d7cafa36615739b6720154f4"
+      ],
+      "source_ids": [
+        "8435f9144c7a75d8a4060c02"
       ]
     }
   ],
@@ -2605,8 +3467,8 @@
       "url": "https://team.rt-solar.ru/internships/solar-lab/solar-cyber-dive/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:21:10+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
       "record_count": 1,
       "open_count": 0,
       "publication_count": 1
@@ -2617,7 +3479,7 @@
       "url": "https://pt-start.ru/internships",
       "automatic": true,
       "status": "DEGRADED",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:21:14+00:00",
       "succeeded_at": "2026-11-02T22:50:12+00:00",
       "record_count": 2,
       "open_count": 0,
@@ -2629,7 +3491,7 @@
       "url": "https://api.hh.ru/vacancies",
       "automatic": true,
       "status": "DEGRADED",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:21:18+00:00",
       "succeeded_at": null,
       "record_count": 0,
       "open_count": 0,
@@ -2641,8 +3503,8 @@
       "url": "https://team.rt-solar.ru/internships/solar-start/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:21:18+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
       "record_count": 3,
       "open_count": 0,
       "publication_count": 3
@@ -2665,8 +3527,8 @@
       "url": "https://careers.kaspersky.ru/vacancies",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:21:22+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
       "record_count": 1,
       "open_count": 1,
       "publication_count": 1
@@ -2689,8 +3551,8 @@
       "url": "https://yandex.ru/yaintern/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:21:27+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
       "record_count": 3,
       "open_count": 0,
       "publication_count": 3
@@ -2701,8 +3563,8 @@
       "url": "https://edu-pt.ru/for_students",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:21:36+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
       "record_count": 1,
       "open_count": 0,
       "publication_count": 1
@@ -2713,8 +3575,8 @@
       "url": "https://safeboard.kaspersky.ru/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:21:39+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
       "record_count": 19,
       "open_count": 0,
       "publication_count": 1
@@ -2725,11 +3587,11 @@
       "url": "https://internship.vk.company/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
-      "record_count": 0,
-      "open_count": 0,
-      "publication_count": 0
+      "attempted_at": "2026-11-06T19:21:44+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
+      "record_count": 1,
+      "open_count": 1,
+      "publication_count": 1
     },
     {
       "id": "db88c765146938d20a3e0fc7",
@@ -2737,8 +3599,8 @@
       "url": "https://job.mts.ru/vacancies",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:21:54+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 0
@@ -2749,8 +3611,8 @@
       "url": "https://team.rt-solar.ru/vacancies/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:22:30+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 0
@@ -2785,8 +3647,8 @@
       "url": "https://rt-solar.ru/events/news/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:22:31+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 1
@@ -2797,7 +3659,7 @@
       "url": "https://ptsecurity.com/about/news/",
       "automatic": true,
       "status": "ERROR",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:22:37+00:00",
       "succeeded_at": "2026-11-02T22:50:12+00:00",
       "record_count": 0,
       "open_count": 0,
@@ -2809,8 +3671,8 @@
       "url": "https://habr.com/ru/rss/companies/pt/articles/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:22:38+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 0
@@ -2821,8 +3683,8 @@
       "url": "https://habr.com/ru/rss/companies/solarsecurity/articles/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-06T06:37:44+00:00",
-      "succeeded_at": "2026-11-06T06:37:44+00:00",
+      "attempted_at": "2026-11-06T19:22:49+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 2
@@ -2834,6 +3696,150 @@
       "automatic": false,
       "status": "MANUAL",
       "attempted_at": null,
+      "succeeded_at": null,
+      "record_count": 0,
+      "open_count": 0,
+      "publication_count": 0
+    },
+    {
+      "id": "6e3c0358ac787f27eec0a6f9",
+      "name": "BI.ZONE · официальные публикации",
+      "url": "https://bi.zone/news/",
+      "automatic": true,
+      "status": "WORKING",
+      "attempted_at": "2026-11-06T19:23:00+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
+      "record_count": 0,
+      "open_count": 0,
+      "publication_count": 1
+    },
+    {
+      "id": "ccd6e8718fb6df611e7ee07d",
+      "name": "F6 · карьерный каталог",
+      "url": "https://www.f6.ru/careers/",
+      "automatic": true,
+      "status": "DEGRADED",
+      "attempted_at": "2026-11-06T19:25:00+00:00",
+      "succeeded_at": null,
+      "record_count": 0,
+      "open_count": 0,
+      "publication_count": 0
+    },
+    {
+      "id": "e0444e795171acd51645caa6",
+      "name": "F6 · официальные публикации",
+      "url": "https://www.f6.ru/blog/",
+      "automatic": true,
+      "status": "WORKING",
+      "attempted_at": "2026-11-06T19:25:04+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
+      "record_count": 0,
+      "open_count": 0,
+      "publication_count": 1
+    },
+    {
+      "id": "35123c44654c8d2568dba277",
+      "name": "Официальный источник",
+      "url": "https://students.usergate.com/",
+      "automatic": true,
+      "status": "WORKING",
+      "attempted_at": "2026-11-06T19:25:08+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
+      "record_count": 2,
+      "open_count": 2,
+      "publication_count": 1
+    },
+    {
+      "id": "ae614722dcbafcc6ae7ffc96",
+      "name": "Официальный источник",
+      "url": "https://career.rvision.ru/",
+      "automatic": true,
+      "status": "WORKING",
+      "attempted_at": "2026-11-06T19:25:11+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
+      "record_count": 1,
+      "open_count": 0,
+      "publication_count": 1
+    },
+    {
+      "id": "d029446025bf72eb4685e962",
+      "name": "Официальный источник",
+      "url": "https://edu.infosec.ru/",
+      "automatic": true,
+      "status": "WORKING",
+      "attempted_at": "2026-11-06T19:25:14+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
+      "record_count": 1,
+      "open_count": 0,
+      "publication_count": 1
+    },
+    {
+      "id": "ce1d1a0f4c2b492ac1ee9c28",
+      "name": "Официальный источник",
+      "url": "https://www.securityvision.ru/about/career/",
+      "automatic": true,
+      "status": "DEGRADED",
+      "attempted_at": "2026-11-06T19:25:16+00:00",
+      "succeeded_at": null,
+      "record_count": 1,
+      "open_count": 0,
+      "publication_count": 1
+    },
+    {
+      "id": "ed473d08429a78a85782711e",
+      "name": "Официальный источник",
+      "url": "https://career.ussc.ru/vacancy/",
+      "automatic": true,
+      "status": "DEGRADED",
+      "attempted_at": "2026-11-06T19:25:19+00:00",
+      "succeeded_at": null,
+      "record_count": 1,
+      "open_count": 0,
+      "publication_count": 1
+    },
+    {
+      "id": "2ad643aee5bcc49d8999ec62",
+      "name": "Официальный источник",
+      "url": "https://www.s-terra.ru/company/rabota-u-nas/",
+      "automatic": true,
+      "status": "WORKING",
+      "attempted_at": "2026-11-06T19:25:23+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
+      "record_count": 1,
+      "open_count": 1,
+      "publication_count": 1
+    },
+    {
+      "id": "778051ce9fb7a2ffc11778f8",
+      "name": "Официальный источник",
+      "url": "https://innostage-group.ru/career/vakancy/",
+      "automatic": true,
+      "status": "WORKING",
+      "attempted_at": "2026-11-06T19:25:27+00:00",
+      "succeeded_at": "2026-11-06T19:25:43+00:00",
+      "record_count": 1,
+      "open_count": 1,
+      "publication_count": 1
+    },
+    {
+      "id": "8435f9144c7a75d8a4060c02",
+      "name": "Официальный источник",
+      "url": "https://tssolution.ru/stazhirovka",
+      "automatic": true,
+      "status": "DEGRADED",
+      "attempted_at": "2026-11-06T19:25:38+00:00",
+      "succeeded_at": null,
+      "record_count": 1,
+      "open_count": 0,
+      "publication_count": 1
+    },
+    {
+      "id": "e1acd9f2eadc84d6b16ccbc6",
+      "name": "Официальный источник",
+      "url": "https://career.infotecs.ru/",
+      "automatic": true,
+      "status": "DEGRADED",
+      "attempted_at": "2026-11-06T19:25:41+00:00",
       "succeeded_at": null,
       "record_count": 0,
       "open_count": 0,
