@@ -1,8 +1,8 @@
 {
   "public_schema_version": 1,
   "demo": false,
-  "updated_at": "2026-11-17T07:58:14+00:00",
-  "succeeded_at": "2026-11-17T07:58:14+00:00",
+  "updated_at": "2026-11-17T20:59:42+00:00",
+  "succeeded_at": "2026-11-17T20:59:42+00:00",
   "collection_interval_hours": 6,
   "records": [
     {
@@ -47,7 +47,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T20:50:40+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -211,7 +211,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -282,7 +282,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -362,7 +362,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -453,7 +453,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -545,7 +545,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -696,7 +696,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -769,7 +769,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -842,7 +842,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -915,7 +915,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -988,7 +988,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1061,7 +1061,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1134,7 +1134,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1207,7 +1207,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1280,7 +1280,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1353,7 +1353,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1426,7 +1426,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1499,7 +1499,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1572,7 +1572,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1645,7 +1645,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1718,7 +1718,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1791,7 +1791,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1864,7 +1864,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -1937,7 +1937,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -2010,7 +2010,7 @@
       "published_at": null,
       "deadline": "2026-11-01T21:29:31.224Z",
       "discovered_at": "2026-11-02T22:02:01+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:02:01+00:00",
       "links": {
@@ -2109,7 +2109,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:10:18+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -2176,7 +2176,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -2250,7 +2250,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": "2026-11-02T22:50:12+00:00",
       "links": {
@@ -2408,7 +2408,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -2479,7 +2479,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -2776,7 +2776,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -2863,7 +2863,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -3002,7 +3002,7 @@
       "published_at": null,
       "deadline": null,
       "discovered_at": "2026-11-10T19:48:19+00:00",
-      "verified_at": "2026-11-17T07:58:14+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
       "official_closed_at": null,
       "closed_observed_at": null,
       "links": {
@@ -3124,6 +3124,180 @@
           "Требование к опыту не указано"
         ]
       }
+    },
+    {
+      "id": "f94588183b29dd3649ced756",
+      "record_type": "VACANCY",
+      "company": "Innostage",
+      "title": "Инженер по сопровождению SIEM",
+      "program": null,
+      "directions": [
+        "SOC"
+      ],
+      "status": "OPEN",
+      "summary": "сопровождение SIEM систем (PT SIEM) (настройка, администрирование, написание правил корреляции, подключение источников) ; сопровождение MP VM, MP8; выполнение работ по обновлению ПО и модернизации (по необходимости); обработка запросов клиентов в системе Service Desk; общение с Заказчиком лично, посредством электронной почты и по телефону; соблюдение сроков обработки обращений; взаимодействие с инженерами служб технической поддержки производителей; осуществление командировок к Заказчику. Основные образование высшее техническое, приоритетный профиль: системы связи, телекоммуникации, информационная безопасность; практический опыт работы в области сетевых технологий (сопровождение, техническая поддержка); опыт внедрения или сопровождения SIEM систем; опыт работы с MP VM, MP8; опыт работы одним или несколькими ПО: MP SIEM, ArcSight, Ankey SIEM, Ankey SIEM NG; опыт работы с правилами корреляции: создание, настройка, корректировка, анализ сработок на предмет корректности работы фильтров; опыт работы с незнакомыми системами в качестве источника событий ИБ; опыт диагностирования механизмов логирования источников в случае выявления проблем с ними; навыки создания парсеров, правил нормализации; навыки самостоятельного развертывания и масштабирования SIEM-систем. Дополнительные развитые коммуникативные навыки и опыт ведения деловой переписки; опыт работы с ОС семейства Linux; опыт работы с продуктами компании Positive Technologies; знание принципов сетевого взаимодействия на уровне L2/L3; опыт работы с сетевым оборудованием и оборудованием МЭ; приветствуется наличие специализированных сертификатов, курсов повышения квалификации в рассматриваемой области.",
+      "responsibilities": [
+        "сопровождение SIEM систем (PT SIEM) (настройка, администрирование, написание правил корреляции, подключение источников) ;",
+        "сопровождение MP VM, MP8;",
+        "выполнение работ по обновлению ПО и модернизации (по необходимости);",
+        "обработка запросов клиентов в системе Service Desk;",
+        "общение с Заказчиком лично, посредством электронной почты и по телефону;",
+        "соблюдение сроков обработки обращений;",
+        "взаимодействие с инженерами служб технической поддержки производителей;",
+        "осуществление командировок к Заказчику."
+      ],
+      "requirements": [
+        "образование высшее техническое, приоритетный профиль: системы связи, телекоммуникации, информационная безопасность;",
+        "практический опыт работы в области сетевых технологий (сопровождение, техническая поддержка);",
+        "опыт внедрения или сопровождения SIEM систем;",
+        "опыт работы с MP VM, MP8;",
+        "опыт работы одним или несколькими ПО: MP SIEM, ArcSight, Ankey SIEM, Ankey SIEM NG;",
+        "опыт работы с правилами корреляции: создание, настройка, корректировка, анализ сработок на предмет корректности работы фильтров;",
+        "опыт работы с незнакомыми системами в качестве источника событий ИБ;",
+        "опыт диагностирования механизмов логирования источников в случае выявления проблем с ними;",
+        "навыки создания парсеров, правил нормализации;",
+        "навыки самостоятельного развертывания и масштабирования SIEM-систем.",
+        "развитые коммуникативные навыки и опыт ведения деловой переписки;",
+        "опыт работы с ОС семейства Linux;",
+        "опыт работы с продуктами компании Positive Technologies;",
+        "знание принципов сетевого взаимодействия на уровне L2/L3;",
+        "опыт работы с сетевым оборудованием и оборудованием МЭ;",
+        "приветствуется наличие специализированных сертификатов, курсов повышения квалификации в рассматриваемой области."
+      ],
+      "study_year": null,
+      "experience": "1–3 года",
+      "experience_level": "REQUIRED",
+      "work_format": null,
+      "locations": [
+        "Москва"
+      ],
+      "employment": "Полная занятость",
+      "schedule": "5/2",
+      "minimum_hours_per_week": null,
+      "hours_per_week": null,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-17T20:59:42+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://innostage-group.ru/career/vakancy/139586742/",
+        "apply": "https://innostage-group.ru/career/vakancy/139586742/",
+        "status": "https://innostage-group.ru/career/vakancy/139586742/",
+        "deadline": null
+      },
+      "source_ids": [
+        "778051ce9fb7a2ffc11778f8"
+      ],
+      "related_ids": [],
+      "timeline": [
+        {
+          "kind": "NEW",
+          "at": "2026-11-17T20:59:42+00:00",
+          "confirmed": true,
+          "fields": []
+        }
+      ],
+      "cycles": [],
+      "fit": {
+        "label": "NO_MATCH",
+        "score": 0,
+        "reasons": [
+          "Направление соответствует интересам SOC / пентест",
+          "Местоположение: Москва",
+          "Источник требует опыт; см. исходные требования",
+          "Полная занятость или нагрузка выше 30 ч/нед: совмещение затруднено"
+        ]
+      }
+    },
+    {
+      "id": "d233e4b170e1b3c5b975d161",
+      "record_type": "VACANCY",
+      "company": "Innostage",
+      "title": "Инженер по сопровождению SIEM",
+      "program": null,
+      "directions": [
+        "SOC"
+      ],
+      "status": "OPEN",
+      "summary": "сопровождение SIEM систем (PT SIEM) (настройка, администрирование, написание правил корреляции, подключение источников) ; сопровождение MP VM, MP8; выполнение работ по обновлению ПО и модернизации (по необходимости); обработка запросов клиентов в системе Service Desk; общение с Заказчиком лично, посредством электронной почты и по телефону; соблюдение сроков обработки обращений; взаимодействие с инженерами служб технической поддержки производителей; осуществление командировок к Заказчику. Основные образование высшее техническое, приоритетный профиль: системы связи, телекоммуникации, информационная безопасность; практический опыт работы в области сетевых технологий (сопровождение, техническая поддержка); опыт внедрения или сопровождения SIEM систем; опыт работы с MP VM, MP8; опыт работы одним или несколькими ПО: MP SIEM, ArcSight, Ankey SIEM, Ankey SIEM NG; опыт работы с правилами корреляции: создание, настройка, корректировка, анализ сработок на предмет корректности работы фильтров; опыт работы с незнакомыми системами в качестве источника событий ИБ; опыт диагностирования механизмов логирования источников в случае выявления проблем с ними; навыки создания парсеров, правил нормализации; навыки самостоятельного развертывания и масштабирования SIEM-систем. Дополнительные развитые коммуникативные навыки и опыт ведения деловой переписки; опыт работы с ОС семейства Linux; опыт работы с продуктами компании Positive Technologies; знание принципов сетевого взаимодействия на уровне L2/L3; опыт работы с сетевым оборудованием и оборудованием МЭ; приветствуется наличие специализированных сертификатов, курсов повышения квалификации в рассматриваемой области.",
+      "responsibilities": [
+        "сопровождение SIEM систем (PT SIEM) (настройка, администрирование, написание правил корреляции, подключение источников) ;",
+        "сопровождение MP VM, MP8;",
+        "выполнение работ по обновлению ПО и модернизации (по необходимости);",
+        "обработка запросов клиентов в системе Service Desk;",
+        "общение с Заказчиком лично, посредством электронной почты и по телефону;",
+        "соблюдение сроков обработки обращений;",
+        "взаимодействие с инженерами служб технической поддержки производителей;",
+        "осуществление командировок к Заказчику."
+      ],
+      "requirements": [
+        "образование высшее техническое, приоритетный профиль: системы связи, телекоммуникации, информационная безопасность;",
+        "практический опыт работы в области сетевых технологий (сопровождение, техническая поддержка);",
+        "опыт внедрения или сопровождения SIEM систем;",
+        "опыт работы с MP VM, MP8;",
+        "опыт работы одним или несколькими ПО: MP SIEM, ArcSight, Ankey SIEM, Ankey SIEM NG;",
+        "опыт работы с правилами корреляции: создание, настройка, корректировка, анализ сработок на предмет корректности работы фильтров;",
+        "опыт работы с незнакомыми системами в качестве источника событий ИБ;",
+        "опыт диагностирования механизмов логирования источников в случае выявления проблем с ними;",
+        "навыки создания парсеров, правил нормализации;",
+        "навыки самостоятельного развертывания и масштабирования SIEM-систем.",
+        "развитые коммуникативные навыки и опыт ведения деловой переписки;",
+        "опыт работы с ОС семейства Linux;",
+        "опыт работы с продуктами компании Positive Technologies;",
+        "знание принципов сетевого взаимодействия на уровне L2/L3;",
+        "опыт работы с сетевым оборудованием и оборудованием МЭ;",
+        "приветствуется наличие специализированных сертификатов, курсов повышения квалификации в рассматриваемой области."
+      ],
+      "study_year": null,
+      "experience": "1–3 года",
+      "experience_level": "REQUIRED",
+      "work_format": null,
+      "locations": [
+        "Казань"
+      ],
+      "employment": "Полная занятость",
+      "schedule": "5/2",
+      "minimum_hours_per_week": null,
+      "hours_per_week": null,
+      "opening_date": null,
+      "published_at": null,
+      "deadline": null,
+      "discovered_at": "2026-11-17T20:59:42+00:00",
+      "verified_at": "2026-11-17T20:59:42+00:00",
+      "official_closed_at": null,
+      "closed_observed_at": null,
+      "links": {
+        "source": "https://innostage-group.ru/career/vakancy/139586741/",
+        "apply": "https://innostage-group.ru/career/vakancy/139586741/",
+        "status": "https://innostage-group.ru/career/vakancy/139586741/",
+        "deadline": null
+      },
+      "source_ids": [
+        "778051ce9fb7a2ffc11778f8"
+      ],
+      "related_ids": [],
+      "timeline": [
+        {
+          "kind": "NEW",
+          "at": "2026-11-17T20:59:42+00:00",
+          "confirmed": true,
+          "fields": []
+        }
+      ],
+      "cycles": [],
+      "fit": {
+        "label": "NO_MATCH",
+        "score": 0,
+        "reasons": [
+          "Направление соответствует интересам SOC / пентест",
+          "Источник требует опыт; см. исходные требования",
+          "Регион вне Москвы; удалённая работа не подтверждена",
+          "Полная занятость или нагрузка выше 30 ч/нед: совмещение затруднено"
+        ]
+      }
     }
   ],
   "publications": [
@@ -3134,7 +3308,7 @@
       "url": "https://team.rt-solar.ru/internships/solar-lab/solar-cyber-dive/",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "ANNOUNCEMENT",
       "registration_url": null,
@@ -3152,7 +3326,7 @@
       "url": "https://form-pt-start.ptsecurity.com/internships/2026",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "OPEN_CONFIRMED",
       "registration_url": "https://form-pt-start.ptsecurity.com/internships/2026",
@@ -3170,7 +3344,7 @@
       "url": "https://form-pt-start.ptsecurity.com/internships/internship-with-education",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "CLOSED_CONFIRMED",
       "registration_url": null,
@@ -3188,7 +3362,7 @@
       "url": "https://team.rt-solar.ru/internships/solar-start/inzhener-ib-na-proekty-integracii/",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "ANNOUNCEMENT",
       "registration_url": null,
@@ -3206,7 +3380,7 @@
       "url": "https://team.rt-solar.ru/internships/solar-start/",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "ANNOUNCEMENT",
       "registration_url": null,
@@ -3224,7 +3398,7 @@
       "url": "https://team.rt-solar.ru/internships/solar-lab/summ3r-0f-h4ck/",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "ANNOUNCEMENT",
       "registration_url": null,
@@ -3260,7 +3434,7 @@
       "url": "https://yandex.ru/yaintern/security",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "CLOSED_CONFIRMED",
       "registration_url": null,
@@ -3278,7 +3452,7 @@
       "url": "https://yandex.ru/yaintern/soc-2024-2",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "CLOSED_CONFIRMED",
       "registration_url": null,
@@ -3296,7 +3470,7 @@
       "url": "https://yandex.ru/yaintern/cloud_security",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "CLOSED_CONFIRMED",
       "registration_url": null,
@@ -3314,7 +3488,7 @@
       "url": "https://edu-pt.ru/for_students",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "UNVERIFIED",
       "registration_url": null,
@@ -3332,7 +3506,7 @@
       "url": "https://safeboard.kaspersky.ru/",
       "published_at": null,
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "CLOSED_CONFIRMED",
       "registration_url": null,
@@ -3368,7 +3542,7 @@
       "url": "https://rt-solar.ru/events/news/2738/",
       "published_at": "2022-05-13",
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "NEWS",
       "category": "ANNOUNCEMENT",
       "registration_url": null,
@@ -3384,7 +3558,7 @@
       "url": "https://ptsecurity.com/about/news/pt-is-launching-a-new-recruitment-drive-for-the-pt-start-internship-program-with-training/",
       "published_at": "2026-08-13",
       "discovered_at": "2026-11-02T22:50:12+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "NEWS",
       "category": "ANNOUNCEMENT",
       "registration_url": null,
@@ -3470,7 +3644,7 @@
       "url": "https://bi.zone/news/zapustili-platformu-s-prakticheskim-obucheniem-na-realnykh-produktakh/",
       "published_at": "2026-10-30T00:00:00+03:00",
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "NEWS",
       "category": "GENERAL_NEWS",
       "registration_url": null,
@@ -3486,7 +3660,7 @@
       "url": "https://www.f6.ru/blog/soc-analyst-training/",
       "published_at": "2026-10-19",
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "NEWS",
       "category": "GENERAL_NEWS",
       "registration_url": null,
@@ -3502,7 +3676,7 @@
       "url": "https://students.usergate.com/",
       "published_at": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "OPEN_CONFIRMED",
       "registration_url": null,
@@ -3521,7 +3695,7 @@
       "url": "https://career.rvision.ru/",
       "published_at": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "UNVERIFIED",
       "registration_url": null,
@@ -3539,7 +3713,7 @@
       "url": "https://edu.infosec.ru/",
       "published_at": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "UNVERIFIED",
       "registration_url": null,
@@ -3557,7 +3731,7 @@
       "url": "https://www.securityvision.ru/about/career/",
       "published_at": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "UNVERIFIED",
       "registration_url": null,
@@ -3575,7 +3749,7 @@
       "url": "https://career.ussc.ru/vacancy/mladshiy-analitik_12813/",
       "published_at": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "UNVERIFIED",
       "registration_url": null,
@@ -3593,7 +3767,7 @@
       "url": "https://www.s-terra.ru/company/rabota-u-nas/Stazhirovkivotdeletestirovaniyaikachestva/",
       "published_at": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "OPEN_CONFIRMED",
       "registration_url": "https://www.s-terra.ru/company/rabota-u-nas/Stazhirovkivotdeletestirovaniyaikachestva/",
@@ -3611,7 +3785,7 @@
       "url": "https://innostage-group.ru/career/vakancy/139117666/",
       "published_at": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "OPEN_CONFIRMED",
       "registration_url": "https://innostage-group.ru/career/vakancy/139117666/",
@@ -3629,7 +3803,7 @@
       "url": "https://tssolution.ru/stazhirovka/informacionnaya-bezopasnost",
       "published_at": null,
       "discovered_at": "2026-11-06T19:25:43+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "UNVERIFIED",
       "registration_url": null,
@@ -3647,7 +3821,7 @@
       "url": "https://internship.vk.company/vacancy/1474",
       "published_at": null,
       "discovered_at": "2026-11-10T19:48:19+00:00",
-      "checked_at": "2026-11-17T07:58:14+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
       "content_type": "PROGRAM_PAGE",
       "category": "OPEN_CONFIRMED",
       "registration_url": null,
@@ -3675,6 +3849,42 @@
       "source_ids": [
         "1a591f26d705ec84d571a873"
       ]
+    },
+    {
+      "id": "4028116c1739f040f362fcc2",
+      "company": "Innostage",
+      "title": "Innostage · Приём подтверждён · Инженер по сопровождению SIEM",
+      "url": "https://innostage-group.ru/career/vakancy/139586742/",
+      "published_at": null,
+      "discovered_at": "2026-11-17T20:59:42+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
+      "content_type": "PROGRAM_PAGE",
+      "category": "OPEN_CONFIRMED",
+      "registration_url": "https://innostage-group.ru/career/vakancy/139586742/",
+      "record_ids": [
+        "f94588183b29dd3649ced756"
+      ],
+      "source_ids": [
+        "778051ce9fb7a2ffc11778f8"
+      ]
+    },
+    {
+      "id": "e1bde521aeafb13365d3faf9",
+      "company": "Innostage",
+      "title": "Innostage · Приём подтверждён · Инженер по сопровождению SIEM",
+      "url": "https://innostage-group.ru/career/vakancy/139586741/",
+      "published_at": null,
+      "discovered_at": "2026-11-17T20:59:42+00:00",
+      "checked_at": "2026-11-17T20:59:42+00:00",
+      "content_type": "PROGRAM_PAGE",
+      "category": "OPEN_CONFIRMED",
+      "registration_url": "https://innostage-group.ru/career/vakancy/139586741/",
+      "record_ids": [
+        "d233e4b170e1b3c5b975d161"
+      ],
+      "source_ids": [
+        "778051ce9fb7a2ffc11778f8"
+      ]
     }
   ],
   "sources": [
@@ -3684,8 +3894,8 @@
       "url": "https://team.rt-solar.ru/internships/solar-lab/solar-cyber-dive/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:55:38+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:56:54+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 1,
       "open_count": 0,
       "publication_count": 1
@@ -3696,8 +3906,8 @@
       "url": "https://pt-start.ru/internships",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:55:41+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:56:58+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 2,
       "open_count": 1,
       "publication_count": 3
@@ -3708,7 +3918,7 @@
       "url": "https://api.hh.ru/vacancies",
       "automatic": true,
       "status": "DEGRADED",
-      "attempted_at": "2026-11-17T07:55:48+00:00",
+      "attempted_at": "2026-11-17T20:57:05+00:00",
       "succeeded_at": null,
       "record_count": 0,
       "open_count": 0,
@@ -3720,8 +3930,8 @@
       "url": "https://team.rt-solar.ru/internships/solar-start/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:55:48+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:57:05+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 3,
       "open_count": 0,
       "publication_count": 3
@@ -3744,7 +3954,7 @@
       "url": "https://careers.kaspersky.ru/vacancies",
       "automatic": true,
       "status": "ERROR",
-      "attempted_at": "2026-11-17T07:55:52+00:00",
+      "attempted_at": "2026-11-17T20:57:09+00:00",
       "succeeded_at": "2026-11-11T06:25:22+00:00",
       "record_count": 1,
       "open_count": 0,
@@ -3768,8 +3978,8 @@
       "url": "https://yandex.ru/yaintern/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:55:58+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:57:16+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 3,
       "open_count": 0,
       "publication_count": 3
@@ -3780,8 +3990,8 @@
       "url": "https://edu-pt.ru/for_students",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:56:06+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:57:23+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 1,
       "open_count": 0,
       "publication_count": 1
@@ -3792,8 +4002,8 @@
       "url": "https://safeboard.kaspersky.ru/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:56:08+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:57:26+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 19,
       "open_count": 0,
       "publication_count": 1
@@ -3804,8 +4014,8 @@
       "url": "https://internship.vk.company/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:56:12+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:57:30+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 3,
       "open_count": 2,
       "publication_count": 3
@@ -3816,8 +4026,8 @@
       "url": "https://job.mts.ru/vacancies",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:56:25+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:57:43+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 0
@@ -3828,8 +4038,8 @@
       "url": "https://team.rt-solar.ru/vacancies/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:56:58+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:58:16+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 0
@@ -3864,8 +4074,8 @@
       "url": "https://rt-solar.ru/events/news/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:56:59+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:58:17+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 1
@@ -3876,8 +4086,8 @@
       "url": "https://ptsecurity.com/about/news/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:57:04+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:58:23+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 1
@@ -3888,8 +4098,8 @@
       "url": "https://habr.com/ru/rss/companies/pt/articles/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:57:11+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:58:32+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 0
@@ -3900,8 +4110,8 @@
       "url": "https://habr.com/ru/rss/companies/solarsecurity/articles/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:57:22+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:58:43+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 2
@@ -3924,8 +4134,8 @@
       "url": "https://bi.zone/news/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:57:32+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:58:54+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 1
@@ -3936,7 +4146,7 @@
       "url": "https://www.f6.ru/careers/",
       "automatic": true,
       "status": "DEGRADED",
-      "attempted_at": "2026-11-17T07:57:36+00:00",
+      "attempted_at": "2026-11-17T20:58:58+00:00",
       "succeeded_at": null,
       "record_count": 0,
       "open_count": 0,
@@ -3948,8 +4158,8 @@
       "url": "https://www.f6.ru/blog/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:57:39+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:59:01+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 1
@@ -3960,8 +4170,8 @@
       "url": "https://students.usergate.com/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:57:43+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:59:06+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 2,
       "open_count": 2,
       "publication_count": 1
@@ -3972,8 +4182,8 @@
       "url": "https://career.rvision.ru/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:57:46+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:59:08+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 1,
       "open_count": 0,
       "publication_count": 1
@@ -3984,8 +4194,8 @@
       "url": "https://edu.infosec.ru/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:57:48+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:59:11+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 1,
       "open_count": 0,
       "publication_count": 1
@@ -3996,7 +4206,7 @@
       "url": "https://www.securityvision.ru/about/career/",
       "automatic": true,
       "status": "DEGRADED",
-      "attempted_at": "2026-11-17T07:57:50+00:00",
+      "attempted_at": "2026-11-17T20:59:14+00:00",
       "succeeded_at": null,
       "record_count": 1,
       "open_count": 0,
@@ -4008,7 +4218,7 @@
       "url": "https://career.ussc.ru/vacancy/",
       "automatic": true,
       "status": "DEGRADED",
-      "attempted_at": "2026-11-17T07:57:53+00:00",
+      "attempted_at": "2026-11-17T20:59:17+00:00",
       "succeeded_at": null,
       "record_count": 1,
       "open_count": 0,
@@ -4020,8 +4230,8 @@
       "url": "https://www.s-terra.ru/company/rabota-u-nas/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:57:56+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:59:20+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 1,
       "open_count": 1,
       "publication_count": 1
@@ -4032,11 +4242,11 @@
       "url": "https://innostage-group.ru/career/vakancy/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:58:00+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
-      "record_count": 1,
-      "open_count": 1,
-      "publication_count": 1
+      "attempted_at": "2026-11-17T20:59:24+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
+      "record_count": 3,
+      "open_count": 3,
+      "publication_count": 3
     },
     {
       "id": "8435f9144c7a75d8a4060c02",
@@ -4044,7 +4254,7 @@
       "url": "https://tssolution.ru/stazhirovka",
       "automatic": true,
       "status": "DEGRADED",
-      "attempted_at": "2026-11-17T07:58:09+00:00",
+      "attempted_at": "2026-11-17T20:59:37+00:00",
       "succeeded_at": null,
       "record_count": 1,
       "open_count": 0,
@@ -4056,8 +4266,8 @@
       "url": "https://career.infotecs.ru/",
       "automatic": true,
       "status": "WORKING",
-      "attempted_at": "2026-11-17T07:58:12+00:00",
-      "succeeded_at": "2026-11-17T07:58:14+00:00",
+      "attempted_at": "2026-11-17T20:59:40+00:00",
+      "succeeded_at": "2026-11-17T20:59:42+00:00",
       "record_count": 0,
       "open_count": 0,
       "publication_count": 0
